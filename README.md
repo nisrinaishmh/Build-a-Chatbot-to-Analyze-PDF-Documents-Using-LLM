@@ -2,8 +2,8 @@
 
 ## Author✍️
 
-**Cognitive Class AI - Sina Nazeri
-Translator : Arifian Saputra💎**
+**Cognitive Class AI - Sina Nazeri💎**
+**Translator : Arifian Saputra💎**
 
 ### Mentee Assignment📝📂
 
