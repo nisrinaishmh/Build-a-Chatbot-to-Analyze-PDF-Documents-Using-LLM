@@ -23,5 +23,6 @@
 * JS
 * Python
 * Flask
+* Docker
 * Langchain
 * OpenAI
